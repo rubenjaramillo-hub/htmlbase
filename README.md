@@ -56,6 +56,3 @@ Duplica un bloque `<article class="module-card">` en `#moduleGrid`, asigna `data
 
 Esta es una base de interfaz front-end, todavía no contiene `imsmanifest.xml` ni un adaptador SCORM. Puedes desarrollar el contenido y, en una siguiente etapa, integrar la API SCORM 1.2 o 2004 y generar el manifiesto correspondiente.
 
-## Licencia y referencia visual
-
-Proyecto original creado para esta solicitud. Toma como referencia general el enfoque de sitios multipágina modernos, navegación clara, animaciones discretas, jerarquía tipográfica y componentes personalizables descritos por el repositorio [AHMAD-JX/Website-Template](https://github.com/AHMAD-JX/Website-Template). No reutiliza su código, imágenes ni recursos propietarios.
